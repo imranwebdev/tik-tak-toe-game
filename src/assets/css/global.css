@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Exo:wght@600&family=Montserrat:wght@400;600;700&family=Poppins:wght@400;700&family=Red+Hat+Display:wght@600&family=Volkhov:wght@700&display=swap');
+
+:root{
+    --dice:'Courgette', cursive;
+    --exo: 'Exo', sans-serif;
+    --popin:'Poppins', sans-serif
+}
